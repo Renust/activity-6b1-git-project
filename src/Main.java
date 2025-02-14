@@ -8,7 +8,7 @@ public class Main {
             System.out.println("Run Run");
 
             else {
-                System.out.println(run)
+                System.out.println("wow: " + wow);
             }
         }
     }
